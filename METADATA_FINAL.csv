@@ -1,0 +1,19 @@
+﻿Metadata,
+Subject_ID,Subject identification number 
+Treatment ,Type of treatment received by clam
+Trial_number,Trial number
+Sound_exemplars,Sound exemplar that was played 
+Beaufort_Scale,Wind measurement according to Beaufort scale 
+Cloud_cover ,Cloud cover measurement (%) 
+Date,Date on which the trial waas conducted
+Time,Time of trial
+Size,Length of the mantle (cm)
+Depth,Depth of clam from surface (cm)
+Noticeable Flow,"Categorically measured as noticeable if there was noticeable macroalgae movement (0 = not noticeable flow, 1 = noticeable flow)"
+Plume_presence,"0 is defined as pre-plume, and 1 is defined as post-plume"
+Retractions,Measured number of retractions during 60 s normalization period
+Latency_to_close,Amount of time from first retraction to fully closed for all clams (s)
+Latency_to_close_exemplar,Amount of time from first retraction to fully closed for clams except those that experienced sound exemplar B3 (s)
+Latency_to_reemerge,Amount of time from fully closed position to fully re-emerged (s)
+Notes,Notes taken in field
+Video notes,Notes taken while scoring video footage
